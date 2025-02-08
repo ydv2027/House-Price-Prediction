@@ -1,6 +1,6 @@
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 scikit-learn
 streamlit
 pickle-mixin
