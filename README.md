@@ -6,6 +6,8 @@ A Machine Learning project to predict house prices in Bangalore using Streamlit.
 
 This is an end-to-end machine learning project that predicts house prices in Bangalore based on various features such as location, size, and square footage. The project involves data collection, data preprocessing, feature engineering, model selection, and deployment using Streamlit.
 
+![Image Alt](https://github.com/ydv2027/House-Price-Prediction/blob/d704a0b8369fb3de976d5d31dd8bf0009621d405/Website%20Image.png)
+
 # Dataset
 
 The dataset was collected from the Kaggle website.
